@@ -1,1 +1,6 @@
+torch 
+torchvision 
+torchaudio
 ipykernel
+deepface
+tf-keras
